@@ -1,0 +1,24 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-lennaomi:lennaomi/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Lenny L. Miller <lennaomielise.firefox@gmail.com> (http://lennylmiller.com/)",
+  "license": "MIT",
+  "bugs": "https://github.com/lennaomi/starwars-names#README.md",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
